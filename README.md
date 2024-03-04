@@ -1,5 +1,5 @@
 # minimalist-portfolio
 A simple minimalist one page portfolio
 
-## Copyright & License
-[MIT](https://github.com/paraskevasleivadaros/minimalist-portfolio/blob/master/LICENSE)
+## 🛠️ Tech Stack
+[![GitHub Actions](https://skills.thijs.gg/icons?i=githubactions)](https://github.com/features/actions)
